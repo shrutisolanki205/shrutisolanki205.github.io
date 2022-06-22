@@ -82,7 +82,7 @@ body {
  * -------------------------------------------------------------------
  */
 a, a:visited {
-	color: #000000;
+	color: #0061cc;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -2249,12 +2249,12 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #151515;
+	background: #ffffff;
 	padding-top: 12rem;
-	padding-bottom: 7.2rem;
+	padding-bottom: 11.2rem;
 }
 #contact .section-intro h1 {
-	color: white;
+	color: black;
 }
 #contact .section-intro h5 {
 	color: #0061cc;
